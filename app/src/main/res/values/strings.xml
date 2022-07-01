@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Cursos</string>
+    <string name="menu_slideshow">Servicios</string>
+    <string name="menu_certif">Certificaciones</string>
+    <string name="banner">Banner</string>
+    <string name="nuestraEmpresa">Empresa 100% mexicana, fundada en 2009. Somos la mejor red de empresas y profesionales creando un concepto innovador en servicios de consultoría y capacitación, buscando reunir el mejor talento de profesionales para ofrecer servicios de excelencia en las mejores prácticas y estándares de calidad para organizaciones de TI en México, Canadá, EUA y Latinoamérica.</string>
+    <string name="nuestra_historia">NUESTRA HISTORIA</string>
+    <string name="tudu">TODO</string>
+    <string name="NUESTRA"><![CDATA[Líderes en implementación de mejores prácticas, estándares de seguridad de la información y gobernabilidad, somos asesores reconocidos gracias a la calidad de nuestro servicio. Miembros de la red de empresas Dun & Bradstreet somos reconocidos internacionalmente por las organizaciones fijadoras de estándares con mayor influencia del mundo, más de 50 asociaciones comerciales e industriales, el Gobierno Federal de Estados Unidos y las Naciones unidas, entre otras instituciones. Siendo participantes del IT Service Management Forum itSMR ® organismo internacional que busca reunir al mayor número de profesionales de ITSM a nivel mundial; VALFRA ha buscado la difusión de las mejores practicas tanto en el sector publico como en el privado mediante foros de difusión y capacitaciones.]]></string>
+    <string name="nuestra_empresa">NUESTRA EMPRESA</string>
+    <string name="todo">TODO</string>
+    <string name="valfra_it_consulting">VALFRA IT CONSULTING</string>
+    <string name="servicios">Servicios</string>
+    <string name="servic">Bienvenido SERVICIO 360 Conoce nuestro servicio integral 360 en servicios de seguridad y ciberseguridad de TI que ponemos a tu disposición.</string>
+    <string name="serv">serv</string>
+    <string name="ju">TODO</string>
+    <string name="cursos">Cursos</string>
+    <string name="cur">cursos</string>
+    <string name="certificados">Certificados</string>
+    <string name="certis">certis</string>
+    <string name="zerv">Servicios</string>
+</resources>
