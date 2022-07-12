@@ -17,27 +17,9 @@ Esta aplicación sería desarrollada con fines académicos, alineándome a la mi
 
 **Tabla de contenido** 
 
-(ToC) con enlaces o a la sección wiki dentro del repositorio o algún medio externo como ReadTheDocs.io
-
-**Requerimientos:**
-
-**Servidores de aplicación, web, bases de datos, etc.**
-
-**Paquetes adicionales.**
-**Versión de Java, etc.**
-
-**Instalación:**
-¿Cómo instalar el ambiente de desarrollo?
-¿Cómo ejecutar pruebas manualmente?
-¿Cómo implementar la solución en producción en un ambiente local o en la nube como Heroku?
-Configuración:
-Configuración del producto (archivos de configuración).
-Configuración de los requerimientos.
-Uso:
-Sección de referencia para usuario final. Manual que se hará referencia para usuarios finales.
-Sección de referencia para usuario administrador.
-Contribución:
-Guía de contribución para usuarios.
-Debe contar con pasos específicos para clonar repositorio, crear un nuevo branch, enviar el pull request, esperar a hacer el merge.
-Roadmap:
-Requerimientos que se implementarán en un futuro.
+1. Requerimientos: https://github.com/YETLAF/ValfraIT/wiki/Requerimientos
+2. Instalación: https://github.com/YETLAF/ValfraIT/wiki/Instalación
+3. Configuración: https://github.com/YETLAF/ValfraIT/wiki/Configuraci%C3%B3n
+4. Uso: https://github.com/YETLAF/ValfraIT/wiki/Uso
+5. Contribución: https://github.com/YETLAF/ValfraIT/wiki/Contribuci%C3%B3n
+6. Roadmap: https://github.com/YETLAF/ValfraIT/wiki/Roadmap
