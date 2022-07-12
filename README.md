@@ -12,14 +12,21 @@ En la aplicación se podrán incluir sus servicios y los cursos que imparten, ta
 Esta aplicación sería desarrollada con fines académicos, alineándome a la misión de que se conviertan en socios de negocio y aliados estratégicos de muchas otras empresas.  
 
 **Arquitectura**
+
 ![image](https://user-images.githubusercontent.com/79923249/178389335-b31a58bc-6320-47d8-ae2f-e052875d2236.png)
 
-Tabla de contenidos (ToC) con enlaces o a la sección wiki dentro del repositorio o algún medio externo como ReadTheDocs.io
-Requerimientos:
-Servidores de aplicación, web, bases de datos, etc.
-Paquetes adicionales.
-Versión de Java, etc.
-Instalación:
+**Tabla de contenido** 
+
+(ToC) con enlaces o a la sección wiki dentro del repositorio o algún medio externo como ReadTheDocs.io
+
+**Requerimientos:**
+
+**Servidores de aplicación, web, bases de datos, etc.**
+
+**Paquetes adicionales.**
+**Versión de Java, etc.**
+
+**Instalación:**
 ¿Cómo instalar el ambiente de desarrollo?
 ¿Cómo ejecutar pruebas manualmente?
 ¿Cómo implementar la solución en producción en un ambiente local o en la nube como Heroku?
