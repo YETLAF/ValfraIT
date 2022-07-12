@@ -1,14 +1,12 @@
-*Descripción
+**Descripción**
 
 
-
-#Problematica Identificada
-
+**Problematica Identificada**
 
 
-#Solución
+**Solución**
 
-#Arquitectura
+**Arquitectura**
 
 Tabla de contenidos (ToC) con enlaces o a la sección wiki dentro del repositorio o algún medio externo como ReadTheDocs.io
 Requerimientos:
